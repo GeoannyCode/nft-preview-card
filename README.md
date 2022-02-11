@@ -10,8 +10,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/geovannydev/QR-code-component)
-- Live Site URL: [Netlify](https://)
+- Solution URL: [GitHub](https://github.com/geovannydev/nft-preview-card)
+- Live Site URL: [Netlify](https://dg-nft-preview-card.netlify.app/)
 
 ## My process
 
